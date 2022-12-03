@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NexxieGroupExercise/static/css/main.8c9599f4.css",
+    "main.js": "/NexxieGroupExercise/static/js/main.970d17ae.js",
+    "static/media/logo.svg": "/NexxieGroupExercise/static/media/logo.c6b5661f5975f9f1c10d76ac5d2a72c6.svg",
+    "index.html": "/NexxieGroupExercise/index.html",
+    "static/media/icon-menu-close.svg": "/NexxieGroupExercise/static/media/icon-menu-close.ca20d86e8364ad748c947025ef771994.svg",
+    "static/media/icon-menu.svg": "/NexxieGroupExercise/static/media/icon-menu.f967d833be0e64002eeaadab0bae9ac5.svg",
+    "main.8c9599f4.css.map": "/NexxieGroupExercise/static/css/main.8c9599f4.css.map",
+    "main.970d17ae.js.map": "/NexxieGroupExercise/static/js/main.970d17ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c9599f4.css",
+    "static/js/main.970d17ae.js"
+  ]
+}
