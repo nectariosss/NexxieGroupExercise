@@ -12,7 +12,7 @@ export const CardData = [
         previewImage:"images/image-top-laptops.jpg",
         number: "02",
         title: "Top 10 Laptops of 2022",
-        description: "Our best picks for various needs and budgets",
+        description: "Our best picks for various needs and budgets.",
     }, 
 
     {
@@ -20,6 +20,6 @@ export const CardData = [
         previewImage:"images/image-gaming-growth.jpg",
         number: "03",
         title: "The Growth of Gaming",
-        description: "How the pandemic has sparked fresh opportunities",
+        description: "How the pandemic has sparked fresh opportunities.",
     }, 
 ]

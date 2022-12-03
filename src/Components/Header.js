@@ -36,6 +36,7 @@ else
                     <li><a href="/Categories">Categories</a></li>
                 </ul>
             </nav> 
+            
             <div className={`${mobileBurgerClass}`}><img src={menuIcon} alt="burger menu" onClick={clickHandler}></img>
             </div>
 
